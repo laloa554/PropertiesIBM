@@ -16,3 +16,9 @@ spring:
     password: lalo
     continueOnError: true
     
+variables:
+  keys: 100,110,300,400,500,600,800,900,950
+varia:
+  arre: 0,1
+iterator:
+  fin: 300000
